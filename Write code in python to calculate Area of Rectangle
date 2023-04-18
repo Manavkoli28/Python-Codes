@@ -1,0 +1,5 @@
+'''Write code in python to calculate Area of Rectangle'''
+Length=float(input("Enter Length:\t"))
+Breadth=float(input("Enter Breadth:\t"))
+Area=Length*Breadth
+print("Area of Rectangle:",Area)
